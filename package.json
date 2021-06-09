@@ -1,0 +1,23 @@
+{
+  "name": "static-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "faker": "^5.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "generate-data": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaroslavAntipov357/static-json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaroslavAntipov357/static-json/issues"
+  },
+  "homepage": "https://github.com/YaroslavAntipov357/static-json#readme"
+}
